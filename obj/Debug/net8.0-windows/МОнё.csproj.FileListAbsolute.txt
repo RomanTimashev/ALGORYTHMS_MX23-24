@@ -1,0 +1,14 @@
+C:\Users\79144\source\repos\МОнё\МОнё\bin\Debug\net8.0-windows\МОнё.exe
+C:\Users\79144\source\repos\МОнё\МОнё\bin\Debug\net8.0-windows\МОнё.deps.json
+C:\Users\79144\source\repos\МОнё\МОнё\bin\Debug\net8.0-windows\МОнё.runtimeconfig.json
+C:\Users\79144\source\repos\МОнё\МОнё\bin\Debug\net8.0-windows\МОнё.dll
+C:\Users\79144\source\repos\МОнё\МОнё\bin\Debug\net8.0-windows\МОнё.pdb
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\МОнё.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\МОнё.AssemblyInfoInputs.cache
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\МОнё.AssemblyInfo.cs
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\МОнё.csproj.CoreCompileInputs.cache
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\МОнё.dll
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\refint\МОнё.dll
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\МОнё.pdb
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\МОнё.genruntimeconfig.cache
+C:\Users\79144\source\repos\МОнё\МОнё\obj\Debug\net8.0-windows\ref\МОнё.dll
